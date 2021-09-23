@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* Para telefonos: */
+
+@media screen and (min-width: 300px) {
+    .tarjeta {
+        width: 51%;
+    }
+    .producto-card {
+        width: 53%;
+    }
+    footer {
+        color: rgb(223, 22, 22);
+    }
+}
+
+
+/* Para tablets: */
+
+@media screen and (min-width: 600px) {
+    .tarjeta {
+        width: 42%;
+    }
+    .producto-card {
+        width: 42%;
+    }
+    footer {
+        color: rgb(250, 253, 253);
+    }
+}
+
+
+/* Para PCs de escritorio y notebooks: */
+
+@media screen and (min-width: 768px) {
+    .tarjeta {
+        width: 24%;
+    }
+    .producto-card {
+        width: 31%;
+    }
+    footer {
+        color: rgb(174, 175, 174);
+    }
+}
