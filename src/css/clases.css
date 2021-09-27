@@ -46,6 +46,7 @@
 #nosotros {
     display: flex;
     justify-content: space-evenly;
+    text-align: center;
 }
 
 
@@ -60,4 +61,7 @@
 .tarjeta h3, .tarjeta h4{ 
     color: white;
 
+}
+#contacto{
+    color: white;
 }
