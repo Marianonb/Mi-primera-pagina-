@@ -21,14 +21,6 @@ nav a {
     text-decoration: none;
     color: whitesmoke;
 }
-hr{
-    border-radius: 50%;
-    width:50% !important;
-    margin: auto 20% !important;
-    height: 10px !important;
-    background-color: rgba(0, 139, 139, 0.856) !important;
-
-}
 
 section {
     
