@@ -19,14 +19,14 @@
 }
 
 .producto-img {
-    width: 90%;
+    
     margin: 10px auto;
     border-radius: 10px ;
 }
 
 .producto-img img {
     max-height: 10%;
-    border-radius: 3px;
+    border-radius: 5px;
 }
 
 .producto-text {
@@ -53,7 +53,7 @@
 /* TARJETAS DE PERSONAL */
 
 .tarjeta img {
-    width: 70%;
+    width: 50%;
     border: white solid 1px;
     border-radius: 40%;
     
