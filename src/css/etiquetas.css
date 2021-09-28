@@ -8,12 +8,16 @@ header {
 }
 
 nav {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 1px;
     background-color: rgba(0, 139, 139, 0.856);
 }
 
 nav a {
-    margin: 15px;
-    padding: 5px;
+
+    
+    margin: 30px;
+    padding: 10px;
     text-decoration: none;
     color: whitesmoke;
 }
@@ -41,4 +45,10 @@ footer {
     color: white;
     padding: 10px;
     text-align: center;
+
+}
+input{
+    
+    border-radius: 5px;
+
 }

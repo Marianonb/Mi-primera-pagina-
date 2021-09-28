@@ -35,7 +35,7 @@
    
     color:white;
     height: 50%;
-    font-size: 1.1rem;
+    font-size: 2.0rem;
     font-weight: 100;
     bottom: 0;
 }
@@ -55,8 +55,8 @@
 .tarjeta img {
     width: 70%;
     border: white solid 1px;
-    border-radius: 50%;
-    box-shadow: 1px 1px 5px;
+    border-radius: 40%;
+    
 }
 .tarjeta h3, .tarjeta h4{ 
     color: white;
@@ -64,4 +64,7 @@
 }
 #contacto{
     color: white;
+}
+#imgInicio img{
+    height: 500px;
 }
